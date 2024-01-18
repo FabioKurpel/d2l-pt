@@ -28,7 +28,7 @@ e desempenhando um papel crescente nas ciências básicas --- da astrofísica à
 Esse livro representa nossa tentativa de tornar o *deep learning* acessível, lhes ensinando os *conceitos*, o *contexto* e o *código*.
 
 
-### Um Meio (?) Combinando Código, Matemática e HTML
+### Um Meio Que Combina Código, Matemática e HTML
 
 Para que qualquer tecnologia de computação alcance seu impacto total,
 deve ser bem compreendido, bem documentado e apoiado por
